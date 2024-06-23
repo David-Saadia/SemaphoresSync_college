@@ -1,3 +1,5 @@
+--College Assignment--
+
 This project was aimed to develop the skill and understanding of semaphores use for synchronization problems.
 
 In this project we were tasked with creating 5 processes that live independently of each other, and communicate and synchronize with other using semaphores.
